@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "legacy_uid": "28f99943-7eb1-2ed6-0ce5-6e9c5aeb66b9",
+  "instructors": {
+    "content": [
+      "5e7f6d6b-f363-cf53-9056-bdb2b67e4f67",
+      "d5049ca8-161f-eb5b-2b71-083f0ca39db0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f64b0ff2-19d5-afc0-cf4d-e3008dc705dd",
+    "website": "2-003-modeling-dynamics-and-control-i-spring-2005"
+  },
+  "course_title": "Modeling Dynamics and Control I",
+  "course_description": "This course is the first of a two term sequence in modeling, analysis and control of dynamic systems. The various topics covered are as follows: mechanical translation, uniaxial rotation, electrical circuits and their coupling via levers, gears and electro-mechanical devices, analytical and computational solution of linear differential equations, state-determined systems, Laplace transforms, transfer functions, frequency response, Bode plots, vibrations, modal analysis, open- and closed-loop control, instability, time-domain controller design, and introduction to frequency-domain control design techniques. Case studies of engineering applications are also covered.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.003",
+  "course_image_thumbnail": {
+    "content": "afb66b25-7b5c-3bb0-c431-1d279f97734d",
+    "website": "2-003-modeling-dynamics-and-control-i-spring-2005"
+  },
+  "learning_resource_types": [
+    "Demonstration Videos",
+    "Exams",
+    "Problem Sets"
+  ],
+  "site_uid": "8188a076-b0d9-4544-8c2a-4734f08af7ec",
+  "title": "Course Metadata"
+}
