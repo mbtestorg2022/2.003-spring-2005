@@ -1,0 +1,33 @@
+leftnav:
+- identifier: 4263c1bd-0707-cf4a-a4a5-00a09d22e601
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 6be28d0a-a288-774f-8a16-dc406b1af917
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: fd74a1af-9b47-84c1-7602-5a1a51f36c12
+  name: Readings
+  url: /pages/readings
+  weight: 30
+- identifier: fbc55028-b2c1-01c5-c62c-62ab407df92b
+  name: Labs
+  url: /pages/labs/
+  weight: 40
+- identifier: c0c74a27-643e-0447-a619-7fa62bdb82d1
+  name: Assignments
+  url: /pages/assignments
+  weight: 50
+- identifier: 1e55bc20-ff0c-b48c-471a-7869a776e5ab
+  name: Exams
+  url: /pages/exams
+  weight: 60
+- identifier: ab5e657e-697a-5c25-9c79-cf71c1832b66
+  name: Tools
+  url: /pages/tools
+  weight: 70
+- identifier: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
+  name: Study Materials
+  url: /pages/study-materials/
+  weight: 80
