@@ -59,13 +59,66 @@ Grading
 
 The course grade will be based upon the students' performance in the following activities:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Laboratories | 20% |
-| Homework | 15% |
-| Recitation Quizzes | 10% |
-| 3 Lecture-period Quizzes | 25% |
-| Final Exam | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratories
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Lecture-period Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The department of Mechanical Engineering has adopted the following guidelines for the grade distribution in undergraduate courses: approximately 25% A, 40% B, 25% C, not more than 10% D and F. We will use this as a starting point in assigning grades; previous offerings of 2.003 have had grade distributions similar to this.
 
