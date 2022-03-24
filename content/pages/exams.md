@@ -48,7 +48,7 @@ Quiz 1 Sample Problem 3 ([PDF]({{< baseurl >}}/resources/quiz1_3))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 2: Bode Plot of First Order System (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/firstorderbode))
+Quiz 2: Bode Plot of First Order System ([PDF]({{< baseurl >}}/resources/firstorderbode))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -57,7 +57,7 @@ Quiz 2: Bode Plot of First Order System (![This resource may not render correctl
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 2: Bode Plot of Second Order System (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/secondorderbode))
+Quiz 2: Bode Plot of Second Order System ([PDF]({{< baseurl >}}/resources/secondorderbode))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -66,16 +66,16 @@ Quiz 2: Bode Plot of Second Order System (![This resource may not render correct
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 2: Sample Problem Set-1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sampleproblems1))
+Quiz 2: Sample Problem Set-1 ([PDF]({{< baseurl >}}/resources/sampleproblems1))
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz 2: Solutions to Sample Problem Set-1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sample1))
+Quiz 2: Solutions to Sample Problem Set-1 ([PDF]({{< baseurl >}}/resources/sample1))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 2: Sample Problem Set-2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sampleproblems2))
+Quiz 2: Sample Problem Set-2 ([PDF]({{< baseurl >}}/resources/sampleproblems2))
 {{< tdclose >}}
 {{< tdopen >}}
 Quiz 2: Solutions to Sample Problem Set-2 ([PDF]({{< baseurl >}}/resources/sample2))

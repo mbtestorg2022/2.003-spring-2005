@@ -18,11 +18,11 @@ Complex Numbers ([PDF]({{< baseurl >}}/resources/complex))
 
 Subtleties of the Laplace Transform ([PDF]({{< baseurl >}}/resources/laplacearticle))
 
-Transfer Function Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/transf_func_scan))
+Transfer Function Notes ([PDF]({{< baseurl >}}/resources/transf_func_scan))
 
 Laplace Transform Pairs and Properties ([PDF]({{< baseurl >}}/resources/laplacetransform))
 
-Op-Amp Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/opampsnotes))
+Op-Amp Notes ([PDF]({{< baseurl >}}/resources/opampsnotes))
 
 Bode Examples ([PDF]({{< baseurl >}}/resources/bodeexamples)), complicatedbode.m ([M](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/complicatedbode.m))
 

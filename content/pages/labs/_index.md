@@ -58,7 +58,7 @@ Lab 1 ([ZIP]({{< baseurl >}}/resources/lab1)) (The ZIP file contains: 11 .m file
 [Lab 2: Rotational 1st-order Inertia/Damper System]({{< baseurl >}}/pages/labs/lab_2)
 {{< tdclose >}}
 {{< tdopen >}}
-Prelab 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prelab2))
+Prelab 2 ([PDF]({{< baseurl >}}/resources/prelab2))
 {{< tdclose >}}
 {{< tdopen >}}
 Lab 2 ([PDF]({{< baseurl >}}/resources/lab2))

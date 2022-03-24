@@ -6,7 +6,7 @@ title: 'Lab 2: Rotational 1st-order Inertia/Damper System'
 uid: f68d3deb-58cb-e26d-a104-0064ba09b1b5
 ---
 
-Pre-Lab (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lab2))  
+Pre-Lab ([PDF]({{< baseurl >}}/resources/lab2))  
 Lab 2 Description ([PDF]({{< baseurl >}}/resources/lab2))
 
 The dynamics of a spinning shaft and the effects of adding inertia and viscous fluid damping are examined in this lab. Figure 1 shows the actual apparatus.
