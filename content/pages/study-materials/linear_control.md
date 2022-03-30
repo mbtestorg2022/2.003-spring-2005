@@ -15,75 +15,75 @@ With the system model in hand we can turn our attention to control issues. Befor
 
 In the [modeling]({{< baseurl >}}/pages/study-materials/system_model) section, the equations pertaining to the system are given as:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/meq1.jpg)
+{{< resource "701633de-ac79-7ac2-520b-49f7c38b3114" >}}
 
 Eq. M1.
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/meq2.jpg)
+{{< resource "9669154c-4649-0247-72e1-e445249597a3" >}}
 
 Eq. M2.
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/meq3.jpg)
+{{< resource "18d8d15e-d078-e595-ea7b-f45942af3124" >}}
 
 Eq. M3.
 
 The first step in linearizing the equation is to approximate i and x as:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq1.jpg)
+{{< resource "bf9684f4-b644-3989-a75b-56de2963d925" >}}
 
 Eq. L1.
 
-where the bar (-) is the value at the operating point, and the tilde (~) term represents incremental variations around this point. We assume ![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/i.jpg) and ![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/x.jpg). Substituting (L1) into (M2) and taking the Taylor expansion yields:
+where the bar (-) is the value at the operating point, and the tilde (~) term represents incremental variations around this point. We assume {{< resource "91cbcf96-be18-dc4e-9c33-946e7fb96770" >}} and {{< resource "8d1f1f50-9b6b-d97b-89c5-f50bedc5e496" >}}. Substituting (L1) into (M2) and taking the Taylor expansion yields:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq2.jpg)
+{{< resource "7ba9a9e9-8cb3-52e0-8721-bb7cb3143e85" >}}
 
 Eq. L2.
 
 For our chosen first order aproximation, the higher order terms drop out. The two partial differential terms in the equation solve as:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq3.jpg)
+{{< resource "7f5ca87d-a99f-a974-4dd0-78b1256e5621" >}}
 
 Eq. L3.
 
 Substituting (L3) into (L2) while dropping the higher order terms leaves:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq4.jpg)
+{{< resource "cd1b68fb-20a2-3242-e5be-59639ac50db2" >}}
 
 Eq. L4.
 
 By definition, the equilibrium point is where there is no net acceleration, and where the incremental terms are equal to zero. At this point, (L4) becomes:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq5.jpg)
+{{< resource "ea35d5f2-5284-34ab-7de8-78699fc62f18" >}}
 
 Eq. L5.
 
 Putting (L5) into (L4) and rearranging, the equation of motion takes on the familiar form of:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq6.jpg)
+{{< resource "4e8ddbaf-54a5-84af-5190-7ab3cd8e95bd" >}}
 
 Eq. L6.
 
 The poles of this system are at:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq7.jpg)
+{{< resource "f3912e6f-b3a2-74f3-6987-fbf0049c5695" >}}
 
 Eq. L7.
 
 For various lengths of the airgap, the pole locations are:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/polemaps.jpg)
+{{< resource "1f7c27c8-4679-7892-3a67-ffb63795e3b8" >}}
 
 Fig. L1.
 
 Plotting pole spacing against air gap distance results in the curve:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/polegap.jpg)
+{{< resource "08e3758a-6eb9-52e5-6263-72aa011c7483" >}}
 
 Fig. L2.
 
 If the terms are properly expanded, the system pole locations can be shown to depend only on upon gravity and the operating air gap:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq8.jpg)
+{{< resource "37b20894-3f08-10df-f75d-80cb76b5ab5b" >}}
 
 Eq. L8.
 
@@ -96,58 +96,58 @@ Now that the system has been linearized, a controller can be applied to it. Vari
 
 The block diagram below represents the whole system. C1 represents the constant for converting between position and voltage in the position sensor and in the input. The other three blocks, from left to right, are the controller, the current supply and the plant.
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/block_full.jpg)
+{{< resource "a5c372a3-5ee4-b4fa-2e61-99c947e72577" >}}
 
 Fig. L3.
 
 For the purposes of examining the behavior of the controlled system, it is useful to consolidate the block diagram before analyzing it. The dynamics of available current controls are sufficiently faster than those of the plant that the block can be treated as a constant multiplier and incorporated into the controller gain. C1 and k2 can be similarly incorporated. The resulting block diagram, with G representing the combination of the constant multipliers, is:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/block_simple.jpg)
+{{< resource "fa9ea6b5-101b-a95d-f3c9-6ec5f459f568" >}}
 
 Fig. L4.
 
 Applying Black's Law to the simplified block diagram results in the following transfer function:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq9.jpg)
+{{< resource "0778d425-ef28-fd7e-f878-04596c4e0acb" >}}
 
 Eq. L9.
 
 The mechanical equivalent system to the linearized model is:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/equivalent.jpg)
+{{< resource "76e8e235-355f-26c9-f24c-a4e0ccebaf1f" >}}
 
 Fig. L5.
 
 For G>k1, the system can be seen from the equation or the equivalent model to be stable. Putting the equation into cannonical form,
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq10.jpg)
+{{< resource "8bd7c6e2-2382-fe25-ab19-fd4dde8bf9c9" >}}
 
 Eq. L10.
 
 the steady state gain is seen to be K/(K-k1), which approaches unity as K gets large. Note that unlike a traditional second order system, the steady state gain here approaches unity from infinity, rather than from a fraction less than one. This effect is a result of the "negative spring" in the linearized equation of motion (Eq. L6).
 
-Where steady state performance improves with increasing G, transient performance depends on all of the system's characteristics. Once a value of G is chosen to provide the acceptable steady state performance, however, ![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/taud.jpg) is the only undefined term in the transfer function, and can be solved for to optimize transient performance.
+Where steady state performance improves with increasing G, transient performance depends on all of the system's characteristics. Once a value of G is chosen to provide the acceptable steady state performance, however, {{< resource "460536cf-7a8b-58c9-8af5-5db5b18a7060" >}} is the only undefined term in the transfer function, and can be solved for to optimize transient performance.
 
 The poles of (Eq. L9) are located at
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq11.jpg)
+{{< resource "c05c09a9-58d7-bb04-9f4a-d9ef3563cdf8" >}}
 
 Eq. L11.
 
 Critical damping occurs when the poles are co-located, where
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq12.jpg)
+{{< resource "4a2c12ca-6f8c-2fcd-d203-61f2eee4c516" >}}
 
 Eq. L12.
 
-Solving for ![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/taud.jpg) provides
+Solving for {{< resource "460536cf-7a8b-58c9-8af5-5db5b18a7060" >}} provides
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq13.jpg)
+{{< resource "89da7469-9444-1414-d7c1-e0165b60db5a" >}}
 
 Eq. L13.
 
 It should be noted that the controller presented above is not physically realizable, as it contains an isolated zero, which gives gain as ever increasing with frequency. A more realistic controller would have a transfer function resembling
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq14.jpg)
+{{< resource "5262eec3-6d5e-d497-220a-d66a4828c23a" >}}
 
 Eq. L14.

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 resourcetype: Image
 title: leq12.jpg
 uid: 4a2c12ca-6f8c-2fcd-d203-61f2eee4c516

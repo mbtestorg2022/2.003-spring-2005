@@ -12,27 +12,27 @@ While linearizing the behavior of the plant and applying traditional linear cont
 
 The basics of our non-linear control system are as follows. The chief difference is that the nonlinear design has an extra nonlinear block between the linear controller and the plant. This extra element combines with the plant to form an effectively linear system, which is controlled in the traditional manner.
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/nlblock1.jpg)
+{{< resource "2add1483-86a2-cf83-3d4b-ae44178beffd" >}}
 
 Fig. N1.
 
 The inputs on the nonlinear block are the measured position of the ball and the force requested by the linear section of the control system. The computer sums the desired force and the constant gravitational force to produce the needed magnetic force:
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/neq1.jpg)
+{{< resource "a7a03e2c-a97c-e249-e812-92f0ab792e87" >}}
 
 Eq. N1.
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/neq2.jpg)
+{{< resource "79c715d5-4d53-5f7b-efcf-46f9e8e9f522" >}}
 
 Eq. N2.
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/neq3.jpg)
+{{< resource "f333e795-881d-e662-9786-94600cf7fd1d" >}}
 
 Eq. N3.
 
 Based on the magnetic force needed, the computer takes the measured distance of the ball from the magnet and calculates the current needed to supply that force at the given distance via
 
-![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/neq4.jpg)
+{{< resource "2e01bcd9-65fa-ed48-43ac-823a31d39b3b" >}}
 
 Eq. N4.
 

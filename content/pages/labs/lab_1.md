@@ -11,35 +11,35 @@ Lab 1 Description ([PDF]({{< baseurl >}}/resources/prelab1))
 
 In this lab, the time response of a first-order system is demonstrated. This system consists of a spring and a damper, respectively represented by a cantilever and an air dashpot (Figure 1). The cantilever is made of spring-steel and can be modeled as a linear spring, i.e. the force at the tip of the cantilever is linearly dependent on its displacement. The dashpot can be modeled as a pure damper where the damping force is proportional to velocity as long as the volume of air behind the piston is not too large. The mass of the cantilever can be neglected, as long as the damping of the air dashpot is not too small. Students will observe that the system departs significantly from these idealizations in some circumstances. This nonideal behavior can be the motivation for postulating more complex models.
 
-![Idealization: spring and damper.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab1fig1.jpg)
+{{< resource "7cf3bf0b-c791-df66-87d5-2037f03cda88" >}}
 
 Figure 1. Idealization: spring and damper. (Image by Prof. Trumper.)
 
 A schematic representation of the system is shown in Figure 2.
 
-![Idealization: spring and damper.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab1fig2.gif)
+{{< resource "1dfd6c08-4ac7-4510-3990-be9fd81238a2" >}}
 
 Figure 2. Idealization: spring and damper. (Image by Prof. Trumper.)
 
 The glass dashpot is covered with rubber to protect the user if it breaks. In figure 3, the dashpot without the rubber coating is displayed, showing the plunger and the adjustment wheel. This wheel adjusts the damping by changing the opening through which air flows.
 
-![Air dashpot without rubber coating.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab1fig3.jpg)
+{{< resource "bdb9e1d3-56cb-1fb4-d586-d9ef79944151" >}}
 
 Figure 3. Air dashpot without rubber coating. (Image by Prof. Trumper.)
 
 Figure 4 shows a simple 'webcam' that records the data as video. The recording software lets you configure the frame rate. By looking at the individual frames of the animation, a table of position and time can be constructed.
 
-![A simple camera records the data as animation on screen.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab1fig4.jpg)
+{{< resource "4ea25e29-eff0-e189-0159-94f36e3eac53" >}}
 
 Figure 4. A simple camera records the data as an animation on the screen. (Image by Prof. Trumper.)
 
 The data can then be processed into a plot that can be used to deduce the time constant tau (figure 5).
 
-![Response of a first order system to an initial displacement.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab1fig5.gif)
+{{< resource "e61f357c-cbc1-cb52-8b51-b4d05f14353a" >}}
 
 Figure 5. Response of a first order system to an initial displacement. (Image by Prof. Trumper.)
 
-[![Video Demonstration.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/screenshot1.jpg)](/ans7870/2/2.003/s05/labs/Lab1.mov)
+[{{< resource "592c6073-0998-9274-e971-2d3fdd5b4e8a" >}}](/ans7870/2/2.003/s05/labs/Lab1.mov)
 
 Figure 6. Video Demonstration. (Image by Prof. Trumper.)
 

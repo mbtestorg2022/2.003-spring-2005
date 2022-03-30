@@ -24,7 +24,7 @@ Laplace Transform Pairs and Properties ([PDF]({{< baseurl >}}/resources/laplacet
 
 Op-Amp Notes ([PDF]({{< baseurl >}}/resources/opampsnotes))
 
-Bode Examples ([PDF]({{< baseurl >}}/resources/bodeexamples)), complicatedbode.m ([M](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/complicatedbode.m))
+Bode Examples ([PDF]({{< baseurl >}}/resources/bodeexamples)), complicatedbode.m ({{% resource_link "d1129b1f-8ef5-a96d-ee73-884c2f4f54ce" "M" %}})
 
 Cell Phone Hinge Design ([PDF]({{< baseurl >}}/resources/sleekhinges_md))
 

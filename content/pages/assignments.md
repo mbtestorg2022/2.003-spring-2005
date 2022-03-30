@@ -118,8 +118,8 @@ Light Bulb Problem ([PDF]({{< baseurl >}}/resources/light_bulb)) and Archive pro
 
 Supporting Files for Light Bulb Problem:
 
-bulbfit.m ([M](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/assignments/bulbfit.m))  
-bulbdata.m ([M](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/assignments/bulbdata.m))
+bulbfit.m ({{% resource_link "e20754c2-76f7-40f6-8a52-5f480f430162" "M" %}})  
+bulbdata.m ({{% resource_link "58f79bb4-e0f3-d284-556a-6c1041fe32f8" "M" %}})
 
 
 {{< tdclose >}}

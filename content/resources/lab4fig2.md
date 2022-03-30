@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fbc55028-b2c1-01c5-c62c-62ab407df92b
 resourcetype: Image
 title: lab4fig2.jpg
 uid: 9d889fde-f303-2baf-8fe6-e580cbbb9f05

@@ -7,6 +7,7 @@ description: 'This resource contains exercise  that demonstrates some basic MATL
   and then use this value to estimate the magnitude of the damping.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-003-modeling-dynamics-and-control-i-spring-2005/e4de6949234a4190f3fafbfe0076b7cb_prelab1.pdf
 file_type: application/pdf
+parent_uid: fbc55028-b2c1-01c5-c62c-62ab407df92b
 resourcetype: Document
 title: prelab1.pdf
 uid: e4de6949-234a-4190-f3fa-fbfe0076b7cb

@@ -5,6 +5,7 @@ description: This resource contains problems on differential equation for the de
   in contact with the barrier etc.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-003-modeling-dynamics-and-control-i-spring-2005/abfa2a1476349f582c6022f29db93d59_quiz1_3.pdf
 file_type: application/pdf
+parent_uid: 1e55bc20-ff0c-b48c-471a-7869a776e5ab
 resourcetype: Document
 title: quiz1_3.pdf
 uid: abfa2a14-7634-9f58-2c60-22f29db93d59

@@ -11,7 +11,7 @@ Main | [Hardware]({{< baseurl >}}/pages/study-materials/hardware) | [System Mode
 MagLev Demonstration
 --------------------
 
-![Photograph of levitating ball.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/ball_suspended.jpg)
+{{< resource "00fc35b0-c240-60ab-5932-7deb807b9e18" >}}
 
 A steel ball bearing is suspended in air by an actively controlled electromagnet.
 

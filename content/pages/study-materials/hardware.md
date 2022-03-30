@@ -13,11 +13,11 @@ The two major sections of the Levitator are the plant/sensor structure and the e
 Plant
 -----
 
-![Photograph of suspended ball.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/ball_suspended2.jpg)
+{{< resource "51cf2445-8958-d508-6a5c-df39c8231dde" >}}
 
 Levitator in action (above) and its schematic representation (below).
 
-![Alternate schematic.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/basic_physical.jpg)
+{{< resource "c745922d-2b56-c5aa-4b79-aa4317b979f4" >}}
 
 The plant consists of the actuator, an iron-core electromagnet and the steel ball bearing levitated by the electromagnet, along with the sensor that sends position to the control circuitry.
 
@@ -28,16 +28,16 @@ To control the position of the ball, the control electronics need to know the ac
 Control Electronics
 -------------------
 
-![Control circuitry, with the plant structure.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/system_group.jpg)
+{{< resource "9dc1a7fa-9388-95fb-14c0-d78c4855eb27" >}}
 
 Control circuitry, with the plant structure.
 
 The control circuitry consists of a set of power supplies and amplifiers connected to a control computer. The control computer is a dedicated digital signal processor (DSP), programmed through the laptop. The power supplies and amplifiers receive the signal from the position sensor and send power to the actuator. An input/output box wired to the analog to digital and digital to analog converters on the computer allows the power electronics and the computer to talk to one another. In the photograph above, the ball rests on a micrometer/force measurement apparatus used in calibrating the system.
 
-![Interior of control box.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/box_photo.jpg)
+{{< resource "3cda07b0-1c0b-6126-c45a-68a89bba61dd" >}}
 
 The power electronics box.
 
 Combining the plant and control electronics, the schematic for the whole system is:
 
-![schematic.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/systemschematic.jpg)
+{{< resource "5344ad53-4e9a-b158-7f14-9ceca4b14490" >}}

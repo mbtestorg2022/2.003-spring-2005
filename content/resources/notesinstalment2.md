@@ -5,6 +5,7 @@ description: This resource contains reading notes on Second-order systems,Comple
   case, Over damped case.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-003-modeling-dynamics-and-control-i-spring-2005/57d44d83366ec969c16208c8fac3982d_notesinstalment2.pdf
 file_type: application/pdf
+parent_uid: fd74a1af-9b47-84c1-7602-5a1a51f36c12
 resourcetype: Document
 title: notesinstalment2.pdf
 uid: 57d44d83-366e-c969-c162-08c8fac3982d

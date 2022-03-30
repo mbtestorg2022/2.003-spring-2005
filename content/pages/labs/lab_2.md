@@ -11,49 +11,49 @@ Lab 2 Description ([PDF]({{< baseurl >}}/resources/lab2))
 
 The dynamics of a spinning shaft and the effects of adding inertia and viscous fluid damping are examined in this lab. Figure 1 shows the actual apparatus.
 
-![First-order rotary system with damping supplied.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab2fig1.jpg)
+{{< resource "de1fcbe5-c3b5-bdf4-a101-8a35e784532b" >}}
 
 Figure 1. First-order rotary system with damping supplied by cup filled with honey, video image shown on screen. (Image by Prof. Trumper.)
 
 The drawing in figure 2 depicts the most important parts. The shaft and flywheel are modeled as an equivalent rotary inertia.
 
-![Drawing of the first-order rotary system.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab2fig2.gif)
+{{< resource "82f00950-7fbc-d9df-fef3-fb2886af64b2" >}}
 
 Figure 2. Drawing of the first-order rotary system. (Image by Prof. Trumper.)
 
 A brass ring can be added to increase the inertia, as shown in figure 3.
 
-![A Brass ring can be added to increase the inertia.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab2fig3.jpg)
+{{< resource "9f04c2e1-41ce-d761-557e-367a1090fc31" >}}
 
 Figure 3. A Brass ring can be added to increase the inertia. (Image by Prof. Trumper.)
 
 The axial position constraint is provided by a ball bearing. This ball bearing is attached to the end of the shaft and rotates on a fixed hardened flat (figure 4). Damping is created by filling with honey the annular space between the end of the shaft and a clear tube. The height of the honey can be changed via the syringe shown in figure 1. The fluid damping can be modeled as an equivalent rotary damper that is linearly proportional to the height L of the viscous fluid.
 
-![Honey filling an anular space.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab2fig4.gif)
+{{< resource "a59dc618-0b55-7859-50ee-0233c0664fda" >}}
 
 Figure 4. The end of the shaft is supported by a ball bearing riding on a hardened flat. Honey filling an anular space provides the damping. (Image by Prof. Trumper.)
 
 Figure 5 shows the idealization of this first-order system. We have chosen honey as the viscous fluid to attain time constants on the order of 1 second with relatively loose geometric constraints. Furthermore, honey is environmentally safe and can be cleaned up with water.
 
-![Idealization: rotary damping and inertia.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab2fig5.gif)
+{{< resource "cda55ab4-f56b-d3f0-136d-046b161ae488" >}}
 
 Figure 5. Idealization: rotary damping and inertia. (Image by Prof. Trumper.)
 
 Figure 6 shows how the animation is being read from the screen. The data can be read by sticking a transparent angle sheet on the screen.
 
-![Idealization: rotary damping and inertia.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab2fig6.jpg)
+{{< resource "a0cb8dc6-bb02-6a1f-e468-5d488f53f549" >}}
 
 Figure 6. Idealization: rotary damping and inertia. (Image by Prof. Trumper.)
 
 By reading every frame and processing the data (with for example MATLAB®) a plot of the angle versus time can be constructed (figure 7).
 
-![Plot of angle vs. time.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab2fig7.gif)
+{{< resource "9deef165-ded9-85ba-c72c-eb192e51639b" >}}
 
 Figure 7. Plot of angle vs. time. (Image by Prof. Trumper.)
 
 Clearly, we could automate this data collection by using for example an optical encoder or a tachometer. The reason for using a camera is to make the data acquisition more intuitive for the students in the early labs. To see an example of such a video capture click on the video button:
 
-[![Video Demonstration.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/screenshot2.jpg)](/ans7870/2/2.003/s05/labs/Lab2.mov)
+[{{< resource "de899ae3-72c9-76c9-7549-7fb4fe005b91" >}}](/ans7870/2/2.003/s05/labs/Lab2.mov)
 
 Figure 8: Video Demonstration. (Image by Prof. Trumper.)
 
@@ -67,7 +67,7 @@ Materials and Notes: Practical Info and Comments
 *   Air supply Quick connectors and tubing from Beswick
 *   Angular sheet This is a small version of the polar plot we stick to the screen printed on a transparent sheet. A larger version of this .gif file can be found here. This image can of course be printed with the same dimensions, but with higher resolution.
 
-![Small polar plot .gif file.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/labpolarplot.gif)
+{{< resource "142248e6-4791-12b3-27b3-6a710d8f9ad6" >}}
 
 Small polar plot .gif file. (Image by Prof. Trumper.)
 
